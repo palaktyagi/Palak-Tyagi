@@ -4,7 +4,7 @@
 Hi! I'm a third-year CS Engineering student in at the JECRC Univerisity. I’m always excited for learning and growing every day. 
 ### Where to find more information about me
 
-On my [website](https://github.com/palaktyagi/palaktyagi.github.io) you can read:
+On my [website](https://palaktyagi.github.io/) you can read:
 - My Resume
 - About My projects.
 - My Achievements
